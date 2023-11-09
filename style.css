@@ -1,0 +1,16 @@
+.container {
+  width: 50%;
+  margin: 0 auto;
+  padding: 4% 0;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 0 30%;
+  background-color: rgb(237, 240, 243);
+}
+div {
+  font-size: large;
+  font-weight: bold;
+}
+div span {
+  color: blue;
+}
